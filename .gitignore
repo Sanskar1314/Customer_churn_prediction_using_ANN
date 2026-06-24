@@ -6,8 +6,6 @@ venv/
 logs/
 
 # Model artifacts (can be regenerated)
-*.pkl
-*.h5
 *.keras
 
 # Python cache
